@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Feedback-App/static/css/main.90742fa0.chunk.css",
+    "main.js": "/Feedback-App/static/js/main.625fa833.chunk.js",
+    "main.js.map": "/Feedback-App/static/js/main.625fa833.chunk.js.map",
+    "runtime-main.js": "/Feedback-App/static/js/runtime-main.fbb830f6.js",
+    "runtime-main.js.map": "/Feedback-App/static/js/runtime-main.fbb830f6.js.map",
+    "static/js/2.66174db1.chunk.js": "/Feedback-App/static/js/2.66174db1.chunk.js",
+    "static/js/2.66174db1.chunk.js.map": "/Feedback-App/static/js/2.66174db1.chunk.js.map",
+    "index.html": "/Feedback-App/index.html",
+    "static/css/main.90742fa0.chunk.css.map": "/Feedback-App/static/css/main.90742fa0.chunk.css.map",
+    "static/js/2.66174db1.chunk.js.LICENSE.txt": "/Feedback-App/static/js/2.66174db1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbb830f6.js",
+    "static/js/2.66174db1.chunk.js",
+    "static/css/main.90742fa0.chunk.css",
+    "static/js/main.625fa833.chunk.js"
+  ]
+}
